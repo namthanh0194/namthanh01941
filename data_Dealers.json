@@ -1,1 +1,75 @@
+[
+  {
+    "RegionId": "1",
+    "RegionName": "Hà Nội",
+    "Dealers": [
+      {
+        "DealerName": "Omoda & Jaecoo Bắc Từ Liêm"
+      },
+      {
+        "DealerName": "Omoda & Jaecoo Cầu Giấy"
+      },
+      {
+        "DealerName": "Omoda & Jaecoo Thanh Xuân"
+      },
+      {
+        "DealerName": "Omoda & Jaecoo Phúc Thọ"
+      }
+    ]
+  },
+  {
+    "RegionId": "2",
+    "RegionName": "Hưng Yên",
+    "Dealers": [
+      {
+        "DealerName": "Omoda & Jaecoo Hưng Yên"
+      }
+    ]
+  },
+  {
+    "RegionId": "3",
+    "RegionName": "Thanh Hóa",
+    "Dealers": [
+      {
+        "DealerName": "Omoda & Jaecoo Thanh Hóa"
+      }
+    ]
+  },
+  {
+    "RegionId": "4",
+    "RegionName": "Cần Thơ",
+    "Dealers": [
+      {
+        "DealerName": "Omoda & Jaecoo Cần Thơ"
+      }
+    ]
+  },
+  {
+    "RegionId": "5",
+    "RegionName": "Nghệ An",
+    "Dealers": [
+      {
+        "DealerName": "Omoda & Jaecoo Vinh"
+      }
+    ]
+  },
+  {
+    "RegionId": "6",
+    "RegionName": "Đà Nẵng",
+    "Dealers": [
+      {
+        "DealerName": "Omoda & Jaecoo Đà Nẵng"
+      }
+    ]
+  },
+  {
+    "RegionId": "7",
+    "RegionName": "Hồ Chí Minh",
+    "Dealers": [
+      {
+        "DealerName": "Omoda & Jaecoo MaxAuto TPHCM"
+      }
+    ]
+  }
+]
 
