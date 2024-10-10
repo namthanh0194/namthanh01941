@@ -80,5 +80,285 @@
         "DealerName": "Omoda & Jaecoo MaxAuto TPHCM"
       }
     ]
+  },
+  {
+    "Id": "8",
+    "RegionName": "An Giang",
+    "Dealers": []
+  },
+  {
+    "Id": "9",
+    "RegionName": "Bà Rịa - Vũng Tàu",
+    "Dealers": []
+  },
+  {
+    "Id": "10",
+    "RegionName": "Bạc Liêu",
+    "Dealers": []
+  },
+  {
+    "Id": "11",
+    "RegionName": "Bắc Giang",
+    "Dealers": []
+  },
+  {
+    "Id": "12",
+    "RegionName": "Bắc Kạn",
+    "Dealers": []
+  },
+  {
+    "Id": "13",
+    "RegionName": "Bắc Ninh",
+    "Dealers": []
+  },
+  {
+    "Id": "14",
+    "RegionName": "Bến Tre",
+    "Dealers": []
+  },
+  {
+    "Id": "15",
+    "RegionName": "Bình Định",
+    "Dealers": []
+  },
+  {
+    "Id": "16",
+    "RegionName": "Bình Dương",
+    "Dealers": []
+  },
+  {
+    "Id": "17",
+    "RegionName": "Bình Phước",
+    "Dealers": []
+  },
+  {
+    "Id": "18",
+    "RegionName": "Bình Thuận",
+    "Dealers": []
+  },
+  {
+    "Id": "19",
+    "RegionName": "Cà Mau",
+    "Dealers": []
+  },
+  {
+    "Id": "20",
+    "RegionName": "Cao Bằng",
+    "Dealers": []
+  },
+  {
+    "Id": "21",
+    "RegionName": "Đắk Lắk",
+    "Dealers": []
+  },
+  {
+    "Id": "22",
+    "RegionName": "Đắk Nông",
+    "Dealers": []
+  },
+  {
+    "Id": "23",
+    "RegionName": "Điện Biên",
+    "Dealers": []
+  },
+  {
+    "Id": "24",
+    "RegionName": "Đồng Nai",
+    "Dealers": []
+  },
+  {
+    "Id": "25",
+    "RegionName": "Đồng Tháp",
+    "Dealers": []
+  },
+  {
+    "Id": "26",
+    "RegionName": "Gia Lai",
+    "Dealers": []
+  },
+  {
+    "Id": "27",
+    "RegionName": "Hà Giang",
+    "Dealers": []
+  },
+  {
+    "Id": "28",
+    "RegionName": "Hà Nam",
+    "Dealers": []
+  },
+  {
+    "Id": "29",
+    "RegionName": "Hà Tĩnh",
+    "Dealers": []
+  },
+  {
+    "Id": "30",
+    "RegionName": "Hải Dương",
+    "Dealers": []
+  },
+  {
+    "Id": "31",
+    "RegionName": "Hải Phòng",
+    "Dealers": []
+  },
+  {
+    "Id": "32",
+    "RegionName": "Hậu Giang",
+    "Dealers": []
+  },
+  {
+    "Id": "33",
+    "RegionName": "Hòa Bình",
+    "Dealers": []
+  },
+  {
+    "Id": "34",
+    "RegionName": "Khánh Hòa",
+    "Dealers": []
+  },
+  {
+    "Id": "35",
+    "RegionName": "Kiên Giang",
+    "Dealers": []
+  },
+  {
+    "Id": "36",
+    "RegionName": "Kon Tum",
+    "Dealers": []
+  },
+  {
+    "Id": "37",
+    "RegionName": "Lai Châu",
+    "Dealers": []
+  },
+  {
+    "Id": "38",
+    "RegionName": "Lâm Đồng",
+    "Dealers": []
+  },
+  {
+    "Id": "39",
+    "RegionName": "Lạng Sơn",
+    "Dealers": []
+  },
+  {
+    "Id": "40",
+    "RegionName": "Lào Cai",
+    "Dealers": []
+  },
+  {
+    "Id": "41",
+    "RegionName": "Long An",
+    "Dealers": []
+  },
+  {
+    "Id": "42",
+    "RegionName": "Nam Định",
+    "Dealers": []
+  },
+  {
+    "Id": "43",
+    "RegionName": "Ninh Bình",
+    "Dealers": []
+  },
+  {
+    "Id": "44",
+    "RegionName": "Ninh Thuận",
+    "Dealers": []
+  },
+  {
+    "Id": "45",
+    "RegionName": "Phú Thọ",
+    "Dealers": []
+  },
+  {
+    "Id": "46",
+    "RegionName": "Phú Yên",
+    "Dealers": []
+  },
+  {
+    "Id": "47",
+    "RegionName": "Quảng Bình",
+    "Dealers": []
+  },
+  {
+    "Id": "48",
+    "RegionName": "Quảng Nam",
+    "Dealers": []
+  },
+  {
+    "Id": "49",
+    "RegionName": "Quảng Ngãi",
+    "Dealers": []
+  },
+  {
+    "Id": "50",
+    "RegionName": "Quảng Ninh",
+    "Dealers": []
+  },
+  {
+    "Id": "51",
+    "RegionName": "Quảng Trị",
+    "Dealers": []
+  },
+  {
+    "Id": "52",
+    "RegionName": "Sóc Trăng",
+    "Dealers": []
+  },
+  {
+    "Id": "53",
+    "RegionName": "Sơn La",
+    "Dealers": []
+  },
+  {
+    "Id": "54",
+    "RegionName": "Tây Ninh",
+    "Dealers": []
+  },
+  {
+    "Id": "55",
+    "RegionName": "Thái Bình",
+    "Dealers": []
+  },
+  {
+    "Id": "56",
+    "RegionName": "Thái Nguyên",
+    "Dealers": []
+  },
+  {
+    "Id": "57",
+    "RegionName": "Thừa Thiên Huế",
+    "Dealers": []
+  },
+  {
+    "Id": "58",
+    "RegionName": "Tiền Giang",
+    "Dealers": []
+  },
+  {
+    "Id": "59",
+    "RegionName": "Trà Vinh",
+    "Dealers": []
+  },
+  {
+    "Id": "60",
+    "RegionName": "Tuyên Quang",
+    "Dealers": []
+  },
+  {
+    "Id": "61",
+    "RegionName": "Vĩnh Long",
+    "Dealers": []
+  },
+  {
+    "Id": "62",
+    "RegionName": "Vĩnh Phúc",
+    "Dealers": []
+  },
+  {
+    "Id": "63",
+    "RegionName": "Yên Bái",
+    "Dealers": []
   }
 ]
