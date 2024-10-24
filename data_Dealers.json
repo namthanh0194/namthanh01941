@@ -74,12 +74,7 @@
   {
     "Id": "7",
     "RegionName": "Hồ Chí Minh",
-    "Dealers": [
-      {
-        "Id": "10",
-        "DealerName": []
-      }
-    ]
+    "Dealers": []
   },
   {
     "Id": "8",
