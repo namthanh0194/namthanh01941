@@ -74,7 +74,12 @@
   {
     "Id": "7",
     "RegionName": "Hồ Chí Minh",
-    "Dealers": []
+    "Dealers": [
+      {
+        "Id": "10",
+        "DealerName": "Omoda & Jaecoo Bình Chánh"
+      }
+    ]
   },
   {
     "Id": "8",
