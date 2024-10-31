@@ -36,7 +36,6 @@ api.repuweb.net
 n8n.repuweb.net
 automation.repuweb.net
 geleximco.duolab.vn
-thanhdat.duolab.vn
 webfast.site
 naturecns.com.vn
 awesoul.com
