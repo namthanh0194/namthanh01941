@@ -33,7 +33,6 @@ qualtrics.vn
 freshworks.repu.vn
 api.linkleads.io.vn
 api.repuweb.net
-n8n.repuweb.net
 automation.repuweb.net
 geleximco.duolab.vn
 naturecns.com.vn
@@ -41,7 +40,6 @@ awesoul.com
 medyclinic.vn
 vinfastotodien3s.com
 biofarm.com.vn
-demo.webfast.site
 medy.duolab.vn
 demo.mountainpink.com
 mountainpink.com
