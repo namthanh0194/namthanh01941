@@ -27,7 +27,6 @@ zoom.org.vn
 figma.com.vn
 mailchimp.org.vn
 grammarly.pro.vn
-vipf.info
 hubspot.vn
 qualtrics.vn
 freshworks.repu.vn
