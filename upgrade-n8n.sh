@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Cách sử dụng
+#curl -sSL https://raw.githubusercontent.com/dangngocbinh/mecode-snippets/refs/heads/master/upgrade-n8n.sh > upgrade-n8n.sh && chmod +x upgrade-n8n.sh && sudo ./upgrade-n8n.sh
+
 # Kiểm tra quyền root
 if [ "$EUID" -ne 0 ]; then 
   echo "Script này cần được chạy với quyền root"
