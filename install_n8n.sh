@@ -29,7 +29,7 @@ else
     echo "Domain $DOMAIN has not been pointed to this server."
     echo "Please update your DNS record to point $DOMAIN to IP $(curl -s https://api.ipify.org)"
     echo "After updating the DNS, run this script again"
-    exit 1
+    # exit 1
 fi
 
 # Sử dụng thư mục /home trực tiếp
@@ -69,8 +69,8 @@ services:
     image: caddy:2
     restart: always
     ports:
-      - "8080:80"
-      - "8443:443"
+      - "80:80"
+      - "443:443"
     volumes:
       - $N8N_DIR/Caddyfile:/etc/caddy/Caddyfile
       - caddy_data:/data
