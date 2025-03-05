@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#chạy lệnh curl -sSL https://raw.githubusercontent.com/namthanh0194/namthanh01941/refs/heads/main/install_n8n.sh > install_n8n.sh && chmod +x install_n8n.sh && sudo ./install_n8n.sh
+
 # Kiểm tra xem script có được chạy với quyền root không
 if [[ $EUID -ne 0 ]]; then
    echo "This script needs to be run with root privileges" 
