@@ -1,4 +1,4 @@
-||24.com.vn^
+||24h.com.vn^
 ||*.24h.com.vn^
 ||*.googleadservices.com^
 ||*.doubleclick.net^
