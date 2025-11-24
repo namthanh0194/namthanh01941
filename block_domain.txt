@@ -5,3 +5,4 @@
 ||*.googlesyndication.com^
 ||*.googletagmanager.com^
 ||*.googletagservices.com^
+||cdn.dtadnetwork.com^
