@@ -6,3 +6,5 @@
 ||*.googletagmanager.com^
 ||*.googletagservices.com^
 ||cdn.dtadnetwork.com^
+||bshc.com.vn^
+||*.bshc.com.vn^
